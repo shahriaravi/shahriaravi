@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7AE22&width=461&height=61&lines=Hey!+Im+Avi!)](https://git.io/typing-svg)
 ## Some more info about me: 
 ```js
-const age = ["15","16","17","18","19","20"]
-const bumblebee = {
+const age = ["16","17","18","19","20"]
+const avi = {
     name: "Shahriar Avi",
     pronouns: "he" | "him",
     age: [Math.floor(Math.random() * age.length)],
@@ -14,7 +14,7 @@ const bumblebee = {
         github: "github.com/shahriaravi",
         facebook: "https://facebook.com/shahriaravi",
         email: "hi@notavi.xyz"
-        twitter: "https://twitter.com/shahriaravi_
+        twitter: "https://twitter.com/shahriaravi_"
     }
 }
 ```
