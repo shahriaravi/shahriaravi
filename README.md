@@ -13,7 +13,7 @@ const avi = {
     socials: {
         github: "github.com/shahriaravi",
         facebook: "https://facebook.com/shahriaravi",
-        email: "hi@notavi.xyz"
+        email: "hi@notavi.xyz",
         twitter: "https://twitter.com/shahriaravi_"
     }
 }
