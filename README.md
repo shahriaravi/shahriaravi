@@ -5,7 +5,7 @@
 🔭 I’m currently working on a cross-platform Application<br>💻 I enjoy coding<br>⚡ Too much lazy:)<br>📧 email: hello.shahriaravi@gmail.com
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/F85PwssKtr) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shahriaravi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriaravi) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/F85PwssKtr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriaravi) [![Intsagram](https://img.shields.io/badge/Instagram-%feda75.svg?logo=instagram&logoColor=white)](https://instagram.com/shahriaravi_)
 
 ### 🧰 Languages and Tools
 
