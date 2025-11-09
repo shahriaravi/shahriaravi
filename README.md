@@ -4,7 +4,7 @@
   
   ### *A digital artisan wrestling with semicolons and existential dread* ✨
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6B46C1&center=true&vCenter=true&random=false&width=600&lines=App+Developer+%26+Founder;Full+Stack+Developer;Mobile+App+Architect;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6B46C1&center=true&vCenter=true&random=false&width=600&lines=Dev+%26+Part time yapper;Full+Stack+Developer;Mobile+App+Architect;Building+Digital+Experiences" alt="Typing SVG" />
   
 </div>
 
