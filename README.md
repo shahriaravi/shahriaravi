@@ -4,13 +4,11 @@
   
   ### *A digital artisan wrestling with semicolons and existential dread* ✨
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6B46C1&center=true&vCenter=true&random=false&width=600&lines=Dev+%26+Part time yapper;Full+Stack+Developer;Mobile+App+Architect;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6B46C1&center=true&vCenter=true&random=false&width=600&lines=Dev+%26+Part+time+yapper;Full+Stack+Developer;Mobile+App+Architect;Building+Digital+Experiences" alt="Typing SVG" />
   
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🚀 Me?
 
@@ -20,7 +18,7 @@ Currently crafting <a href="https://getmate.vercel.app">**Mate**</a> 🎯
 
 <br />
 
-### 🛠️
+### 🛠️ Tech Stack
 
 <div align="left">
   <p>
@@ -42,7 +40,7 @@ Currently crafting <a href="https://getmate.vercel.app">**Mate**</a> 🎯
 
 ---
 
-### 📊
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahriaravi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" height="165" alt="GitHub Stats" />
@@ -51,11 +49,11 @@ Currently crafting <a href="https://getmate.vercel.app">**Mate**</a> 🎯
 
 ---
 
-### 🎯
+### 🎯 Current Focus
 
 ```javascript
 const currentFocus = {
-  building: "Mate - Revolutionary App",
+  building: "Mate",
   exploring: "The intersection of creativity and code",
   brewing: "☕ Infinite cups of coffee"
 };
