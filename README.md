@@ -10,7 +10,7 @@
   
   <p>
     I build things for the web and mobile, constantly navigating the fine line between 'feature' and 'happy little accident'.<br />
-    Currently crafting <a href="getmate.vercel.app">Mate</a>.
+    Currently crafting <a href="https://getmate.vercel.app">Mate</a>.
   </p>
 
 </div>
@@ -54,5 +54,5 @@
   <a href="https://www.linkedin.com/in/shahriaravi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/shahriaravi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:hello.shahriaravi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="getmate.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Byontriq-5A67D8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlNpdGVwcm9ncmVzczwvdGl0bGU+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAzYTkgOSAwIDAgMSAwIDE4IDkgOSAwIDAgMSAwLTE4em0tMi4yNSAxMS4yNUg4LjI1VjkuNzVoMS41djMuNzVoMi4yNXYxLjV6bTYgMGgtMS41bC0yLjUtNS4yNXY1LjI1aC0xLjVNOS43NWg0LjVsMi41IDUuMjVWOS43NWgxLjV2Ni43NXoiLz48L3N2Zz4=&logoColor=white" alt="Byontriq"></a>
+  <a href="https://getmate.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Byontriq-5A67D8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlNpdGVwcm9ncmVzczwvdGl0bGU+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAzYTkgOSAwIDAgMSAwIDE4IDkgOSAwIDAgMSAwLTE4em0tMi4yNSAxMS4yNUg4LjI1VjkuNzVoMS41djMuNzVoMi4yNXYxLjV6bTYgMGgtMS41bC0yLjUtNS4yNXY1LjI1aC0xLjVNOS43NWg0LjVsMi41IDUuMjVWOS43NWgxLjV2Ni43NXoiLz48L3N2Zz4=&logoColor=white" alt="Mate"></a>
 </p>
